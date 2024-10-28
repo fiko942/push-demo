@@ -4,6 +4,8 @@ Aplikasi ini adalah sebuah modul validasi sederhana yang dapat memverifikasi ber
 
 ## Struktur Proyek
 
+# Perubahannya ada disini guys
+
 - **Main.java**: Kelas utama yang menjalankan berbagai tes validasi pada berbagai jenis input menggunakan kelas `Validator`.
 - **Validator.java**: Kelas yang berisi metode untuk memvalidasi berbagai tipe input dengan menggunakan ekspresi reguler (regex).
 
